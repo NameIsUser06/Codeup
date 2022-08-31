@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> // Header file standard input ouput = stdio
 
 int main() {
 
